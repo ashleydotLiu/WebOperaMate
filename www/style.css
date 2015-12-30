@@ -1,0 +1,26 @@
+@import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+
+#header h1 {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 100%;
+	font-size: 28px;
+	color: #000000;
+	line-height: 30px;
+}
+#header p {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 100%;
+	color: #666666;
+}
+#header a {
+	color: #6E2828;
+	text-decoration: none;
+}
+#header a:hover {
+	color: #000000;
+	text-decoration: none;
+}
