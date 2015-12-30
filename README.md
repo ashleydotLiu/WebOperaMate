@@ -18,6 +18,7 @@ Run the code in app.R in an interactive R session.
 
 ## Structure 
 * **Programming mode(Automatic Analysis)** : run all steps automatically without mannually interact with website server.
+* 
 * **Interactive mode** : run steps one by one for more customized visualizations and parameters. Execute each step by pressing the corresponding job submitting botton (details are available in each step). Then move to the next step for additional functions.
 - 
 ## Functionality
