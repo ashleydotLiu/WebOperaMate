@@ -16,6 +16,10 @@ The depending packages include shiny, shinydashboard, shinyapps, markdown from C
 ## Get started
 Run the code in app.R in an interactive R session.
 
+ > source("global.R")
+ > source("ui.R")
+ > source("server.R")
+ > shinyApp(ui = shinyUI, server = shinyServer)
 
 ## Structure 
  - **Programming mode (Automatic Analysis)** : run all steps automatically without mannually interact with website server.
